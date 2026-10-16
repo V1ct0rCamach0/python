@@ -9,7 +9,7 @@ es_3d = input("¿Sesión 3D? (si/no): ")
 es_3d = es_3d.lower()
 es_3d = es_3d.strip()
  
-
+# esto lo he buscado en la ia porque no me salia ponerlo de manera en que pusiese una a y me reventara el sistema
 if edad_texto.isdigit() == False:
     print("Edad no válida")
 else:
